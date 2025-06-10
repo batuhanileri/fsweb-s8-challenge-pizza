@@ -9,10 +9,9 @@ function Home() {
             <h3 className="logo-container">
                 <img src={logo} alt="Site Logosu" className="main-logo" />
             </h3>
-            <div>
-                <p className='common-text-style text-style-one'>KOD ACIKTIRIR</p>
-                <p className='common-text-style text-style-two'>PİZZA, DOYURUR</p>
-            </div>
+            <p className='common-text-style text-style-one'>KOD ACIKTIRIR</p>
+            <p className='common-text-style text-style-two'>PİZZA, DOYURUR</p>
+
             <button className='button-style'>ACIKTIM</button>
             <img src={homeBanner} alt="Ana Sayfa Banner" className="full-width-banner" />
         </div>
